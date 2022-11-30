@@ -1,0 +1,15 @@
+C:\C#\EnumBeginners\bin\Debug\net6.0\EnumBeginners.exe
+C:\C#\EnumBeginners\bin\Debug\net6.0\EnumBeginners.deps.json
+C:\C#\EnumBeginners\bin\Debug\net6.0\EnumBeginners.runtimeconfig.json
+C:\C#\EnumBeginners\bin\Debug\net6.0\EnumBeginners.dll
+C:\C#\EnumBeginners\bin\Debug\net6.0\EnumBeginners.pdb
+C:\C#\EnumBeginners\obj\Debug\net6.0\EnumBeginners.csproj.AssemblyReference.cache
+C:\C#\EnumBeginners\obj\Debug\net6.0\EnumBeginners.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\EnumBeginners\obj\Debug\net6.0\EnumBeginners.AssemblyInfoInputs.cache
+C:\C#\EnumBeginners\obj\Debug\net6.0\EnumBeginners.AssemblyInfo.cs
+C:\C#\EnumBeginners\obj\Debug\net6.0\EnumBeginners.csproj.CoreCompileInputs.cache
+C:\C#\EnumBeginners\obj\Debug\net6.0\EnumBeginners.dll
+C:\C#\EnumBeginners\obj\Debug\net6.0\refint\EnumBeginners.dll
+C:\C#\EnumBeginners\obj\Debug\net6.0\EnumBeginners.pdb
+C:\C#\EnumBeginners\obj\Debug\net6.0\EnumBeginners.genruntimeconfig.cache
+C:\C#\EnumBeginners\obj\Debug\net6.0\ref\EnumBeginners.dll
